@@ -1,3 +1,7 @@
+# Archived
+This repo is no longer located here, check [here](https://github.com/TsunamiN)
+
+
 
 # Ender Client 
 
